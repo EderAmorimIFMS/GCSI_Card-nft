@@ -1,0 +1,73 @@
+body{
+    background-color: #0c1e31;
+    margin: 0px;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    display: block;
+    border-radius: 10px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    width: 300px;
+    height: 550px;
+    transition: all 0.3s ease-out;
+    background-color: #20425e;
+    transition-duration: 1s;
+  }
+
+.card:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+.img-nft{
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    transition-duration: 4s;
+}
+
+.img-nft:hover{
+    filter: brightness(50%);
+    transition-duration: 4s;
+    background-image: url("img/favicon-32x32.png");
+}
+
+.img-avatar{
+    width: 70px;
+    height: 70px;
+}
+
+.titulo{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.titulo:hover{
+    color: hsl(178, 100%, 50%);
+    transition-duration: 4s
+}
+
+.texto {
+    color: #9acddc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.nome{
+    color: white;
+}
+
+.nome:hover{
+    color: hsl(178, 100%, 50%);
+    transition-duration: 4s
+}
