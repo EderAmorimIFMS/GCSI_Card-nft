@@ -3,7 +3,7 @@ Projeto criado para cumprir o desafio
 da matéria: "GERÊNCIA E CONFIGURAÇÕES DE SERVIÇOS DE INTERNET"
 
 - [Visualizar projeto](https://ederamorimifms.github.io/GCSI_Card-nft/)
-)
+
 
 
 ### 💻 Tecnologias
