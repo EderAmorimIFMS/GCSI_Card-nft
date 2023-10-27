@@ -13,14 +13,16 @@ body{
 }
 
 .card {
-    display: block;
     border-radius: 10px;
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
-    width: 300px;
-    height: 550px;
     transition: all 0.3s ease-out;
     background-color: #20425e;
     transition-duration: 1s;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 55      0px;
+    padding: 10px;
   }
 
 .card:hover{
@@ -30,8 +32,9 @@ body{
 
 .img-nft{
     border-radius: 10px;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
+    align-self: center;
     transition-duration: 4s;
 }
 
@@ -44,6 +47,8 @@ body{
 .img-avatar{
     width: 70px;
     height: 70px;
+    float: left;
+    margin: 0 10px 0 0;
 }
 
 .titulo{
@@ -57,10 +62,24 @@ body{
     transition-duration: 4s
 }
 
+.meio-card{
+    display: flex;
+    border-bottom: 1px solid #9acddc;
+    margin-bottom: 30px;
+}
+
+.margin{
+    margin-right: 110px;
+}
+
 .texto {
     color: #9acddc;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
+}
+
+.footer-card{
+    margin-bottom: 20px;
 }
 
 .nome{
