@@ -1,9 +1,10 @@
 body{
     margin: 0;
-    background-color: #000;
+    background-image: url('img/image-background.jpg');
     width: 100vw;
     height: 100vh;
     padding: 0;
+    object-fit: cover;
 }
 
 header {
@@ -19,22 +20,28 @@ header {
 
 .header-titulo{
     color: white;
+    font-family: examplefantasy;
 }
 
 .img-logo {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 
 #card-list{
-    width: 100%;
+    max-width: 100%;
+    margin: auto;
     justify-content: center;
     align-items: center;
-    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    /*display: grid;
     grid-gap: 10px; 
-    grid-template-columns: repeat(3, minmax(300px, 1fr)); 
+    grid-template-columns: repeat(3, minmax(300px, 1fr));*/
     padding: 0 50px 0 50px;
 }
 
@@ -67,6 +74,7 @@ header {
     transition-duration: 4s;
     border-radius: 50%;
     margin-top: -30px;
+    object-fit: cover;
 }
 
 .img-nft:hover{
