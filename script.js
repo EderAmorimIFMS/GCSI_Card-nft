@@ -2,13 +2,13 @@ const cartas = [
     {
       "id": 1,
       "imagem": "img/image-knight-recrutas.jpg",
-      "titulo": "Soldados recrutas",
+      "titulo": "Soldado",
       "descricao": "Uma guilda sombria e habilidosa, especializada em furtividade e estratégia. Eles protegem os reinos. Habilidades únicas e lealdade inabalável são sua marca registrada."
     },
     {
       "id": 2,
       "imagem": "img/image-mago-necromante.jpg",
-      "titulo": "Mago Necromante",
+      "titulo": "Necro Mago",
       "descricao": "Mestre das Artes Obscuras. Domina magias sombrias e necromancia, invocando mortos-vivos e manipulando almas. O Mago Necromante desafia os inimigos com suas habilidades."
     }, 
     {
@@ -20,7 +20,7 @@ const cartas = [
     {
       "id": 4,
       "imagem": "img/image-paladino-alado.jpg",
-      "titulo": "Paladino Alado",
+      "titulo": "Aniquilador",
       "descricao": "Armado com fé e justiça, este paladino é abençoado com asas divinas que irrompem da armadura. Ele é um símbolo de proteção e esperança, voando alto para lutar contra."
     },
     {
@@ -44,7 +44,7 @@ const cartas = [
     {
       "id": 8,
       "imagem": "img/image-espirito-floresta.jpg",
-      "titulo": "Espirito sombrio selvagem",
+      "titulo": "Espirito selvagem",
       "descricao": "Uma entidade enigmática e guardiã da natureza oculta, envolta em sombras. Este espírito florestal canaliza o poder da floresta sombria para proteger seu lar. Com habilidades."
     }
   ]
