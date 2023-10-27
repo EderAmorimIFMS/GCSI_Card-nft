@@ -1,11 +1,35 @@
 body{
+    margin: 0;
     background-color: #000;
-    margin: 0px;
-}
-
-#card-list{
     width: 100vw;
     height: 100vh;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 210px;
+    background-color: #222;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-titulo{
+    color: white;
+}
+
+.img-logo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+
+#card-list{
+    width: 100%;
     justify-content: center;
     align-items: center;
     display: grid;
@@ -118,4 +142,13 @@ body{
 .nome:hover{
     color: hsl(178, 100%, 50%);
     transition-duration: 4s
+}
+
+footer {
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    align-items: center;
+    width: 100%;
 }
