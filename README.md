@@ -13,7 +13,7 @@ da matéria: "GERÊNCIA E CONFIGURAÇÕES DE SERVIÇOS DE INTERNET"
 ## ⚒️  Ferramentas:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub](https://github.com/)
-- [LeonardoIA]https://app.leonardo.ai)
+- [LeonardoIA](https://app.leonardo.ai)
 
 
 ##  👦 Autor
