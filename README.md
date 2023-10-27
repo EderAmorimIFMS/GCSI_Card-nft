@@ -13,9 +13,6 @@ As seguintes linguagens foram usadas na construção do projeto:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub](https://github.com/)
 
-## Layout
- [GitHub](https://github.com/)
 
-        
 ##  👦 Autor
 - Éder Amorim
