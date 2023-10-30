@@ -11,7 +11,7 @@ const cartas = [
       "id": 2,
       "imagem": "img/image-mago-necromante.jpg",
       "titulo": "Necro Mago #002",
-      "descricao": "Mestre das Artes Obscuras. Domina magias sombrias e necromancia, invocando mortos-vivos e manipulando almas. O Mago Necromante desafia os inimigos com suas habilidades.",
+      "descricao": "Mestre das Artes Obscuras. Domina magias sombrias e necromancia, invocando mortos-vivos e manipulando almas. O Mago Necromante desafia os inimigos",
       "valor": "100.2",
       "data": "5 dias left"
     }, 
@@ -19,7 +19,7 @@ const cartas = [
       "id": 3, 
       "imagem": "img/image-mago-skeleto.jpg",
       "titulo": "Mago Sombrio #003",
-      "descricao": "Uma mago sombrio habilidoso, especializado em furtividade e estratégia. Eles protegem os reinos da escuridão. Habilidades únicas e lealdade inabaláveis são sua marca.",
+      "descricao": "Uma mago sombrio habilidoso, especializado em furtividade e estratégia. Eles protegem os reinos da escuridão. Habilidades únicas e lealdade inabaláveis.",
       "valor": "250.3",
       "data": "9 dias left"
     },
@@ -27,7 +27,7 @@ const cartas = [
       "id": 4,
       "imagem": "img/image-paladino-alado.jpg",
       "titulo": "Aniquilador #004",
-      "descricao": "Armado com fé e justiça, este paladino é abençoado com asas divinas que irrompem da armadura. Ele é um símbolo de proteção e esperança, voando alto para lutar contra.",
+      "descricao": "Armado com fé e justiça, este paladino é abençoado com asas divinas que irrompem da armadura. Ele é um símbolo de proteção e esperança, voando alto para lutar.",
       "valor": "250.4",
       "data": "3 dias left"
     },
@@ -35,7 +35,7 @@ const cartas = [
       "id": 5,
       "imagem": "img/image-paladino.jpg",
       "titulo": "Paladino #005",
-      "descricao": "Defensor destemido da justiça, equipado com espada e escudo. Este paladino luta incansavelmente contra as trevas e protege os oprimidos. Sua coragem e lealdade inspira.",
+      "descricao": "Defensor destemido da justiça, equipado com espada e escudo. Este paladino luta incansavelmente contra as trevas e protege os oprimidos com sua coragem e lealdade.",
       "valor": "50.5",
       "data": "1 dias left" 
     },
@@ -43,7 +43,7 @@ const cartas = [
       "id": 6,
       "imagem": "img/image-shogun.jpg",
       "titulo": "Shogun #006",
-      "descricao": "Líder imponente e destemido, comandante das artes marciais. Este Shogun é um estrategista habilidoso, pronto para enfrentar qualquer desafio. Sua coragem é uma inspiração",
+      "descricao": "Líder imponente e destemido, comandante das artes marciais. Este Shogun é um estrategista habilidoso, pronto para enfrentar qualquer desafio com sua coragem",
       "valor": "200.6",
       "data": "5 dias left"
     },
@@ -51,15 +51,15 @@ const cartas = [
       "id": 7, 
       "imagem": "img/image-inseto-demonio.jpg",
       "titulo": "Inseto Demonio #007",
-      "descricao": "Uma criatura grotesca e infernal, que rasteja as profundezas do submundo. Seu exoesqueleto é revestido de chamas demoníacas, e suas tendências estão sedentárias por destrui.",
+      "descricao": "Uma criatura grotesca e infernal, que rasteja as profundezas do submundo. Seu exoesqueleto é revestido de chamas demoníacas, e suas tendências estão sedentárias.",
       "valor": "150.7",
       "data": "7 dias left"
-    },
+    },  
     {
       "id": 8,
       "imagem": "img/image-espirito-floresta.jpg",
-      "titulo": "Espirito Selvagem #008",
-      "descricao": "Uma entidade enigmática e guardiã da natureza oculta, envolta em sombras. Este espírito florestal canaliza o poder da floresta sombria para proteger seu lar. Com habilidades.",
+      "titulo": "Espirito #008",
+      "descricao": "Uma entidade enigmática e guardiã da natureza oculta, envolta em sombras. Este espírito florestal canaliza o poder da floresta sombria para proteger seu lar.",
       "valor": "250.8",
       "data": "4 dias left"
     }
